@@ -1,3 +1,29 @@
 h1 {
     text-align: center;
+    color: #505050;
+}
+
+.image-wrapper{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+img {
+    width: 100%;
+}
+body{
+    background-color: #ffebee;
+}
+.about-me{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: justify;
+}
+.brand-logo{
+    margin-left: 15px;
 }
