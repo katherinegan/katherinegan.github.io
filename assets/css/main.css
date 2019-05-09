@@ -1,6 +1,6 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
-
+@import url("https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ'");
 /*
 	Twenty by HTML5 UP
 	html5up.net | @ajlkn
@@ -2607,9 +2607,6 @@ input, select, textarea {
 
 	#cta {
 		background-attachment: scroll, fixed;
-
-
-		
 		background-color: #645862;
 		background-image: url("images/overlay.png"), url("../../images/road.jpg");
 		background-position: top left, bottom center;
