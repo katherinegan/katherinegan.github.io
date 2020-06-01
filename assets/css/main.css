@@ -2056,10 +2056,11 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.5;
+			opacity: 0.2;
 			position: absolute;
 			top: 0;
 			width: 100%;
+
 		}
 
 		.image.thumb {
@@ -2077,7 +2078,7 @@ input, select, textarea {
 				content: 'View';
 				display: inline-block;
 				font-size: 0.8em;
-				font-weight: 400;
+				font-weight: 300;
 				left: 50%;
 				line-height: 2.25em;
 				margin: -1.25em 0 0 -3em;
